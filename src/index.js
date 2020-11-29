@@ -1,1 +1,1 @@
-// 发布订阅模式
+// 发布订阅模式 publish-subscrib
